@@ -1,3 +1,4 @@
+import CoreGraphics
 import Quick
 import Moya
 import ReactiveSwift
